@@ -1,0 +1,9 @@
+# Python virtual environment & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# DuckDB write-ahead logs
+*.duckdb.wal
